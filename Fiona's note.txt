@@ -1,0 +1,8 @@
+What I have learned from this simple project:
+
+1. BDD  > gherkin language
+2. DDD > Scenario Outline
+3. Maven > this is a maven project and using pom.xml to add dependencies
+4. Selenium Webdriver > in step definitions
+5. Page Object > there are 2 kind of step definitions in this project, the files ending with POM are using page object model
+6. Cucumber > gherkin, step definition, runtime, online reports
